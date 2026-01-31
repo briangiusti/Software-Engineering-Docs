@@ -103,6 +103,7 @@ Repeat for 45 min to simulate a half of soccer
 - Pronated curl
 
 ## Werner Gunthor Program
+[The Program](https://www.mbingisser.com/wp-content/uploads/2011/07/G%C3%BCnth%C3%B6r-Program.pdf)
 
 ## Supplements
 - GABA Supplement
@@ -178,4 +179,65 @@ Repeat for 45 min to simulate a half of soccer
 3. Week 3: Run 5 days, 3 of them being 5 miles, one being a very easy 3 miles, and an 8 mile run. Again, pick one of the 5 mile runs to complete the intgerated hill running as described in the previous week 26 miles total.
 
 4. Week 4: Run 4 days, 2 days running 5 miles, one running 7, and one 8. On the 7 mile run day, run 2 miles easy, then 3 miles at a comfortably hard pace and finish 2 miles easy, One of the 5 mile days should include the hills from before. 25 miles.
+
+
+## Test Program to try
+1. Chest and Tri
+    - 3x15 bench press
+    - 3x15 dumbbell flys
+    - 3x15 tricep pushdown
+    - 3x15 skull crushers
+    - 3x15 tricep kickbacks
+    - 3x12 pushups
+
+2. Back and Biceps
+    - 3x10 deadlifts
+    - 3x15 pullups
+    - 3x15 bent over rows
+    - 3x15 lat pulldowns
+    - 3x15 barbell bicep curl
+    - 3x15 hammer curls
+    - 3x15 seated row
+    - 3x15 preacher curls
+
+3. Legs
+    - 3x15 Squats
+    - 3x15 Lunges
+    - 3x15 Leg Press
+    - 3x15 leg curls
+    - 3x15 leg extensions
+    - 3x15 calf raises
+    - 3x15 glute bridges
+
+4. Shoulders and Traps
+    - 3x15 military press
+    - 3x15 lateral raises
+    - 3x15 front raises
+    - 3x15 shrugs
+    - 3x15 upright rows
+    - 3x15 face pulls
+    - 3x15 reverse flies
+    - 3x15 lateral raise with DB
+
+5. Cardio + Core
+    - 30 min of cardio
+    - 3x30sec planks
+    - 3x15 russian twists
+    - 3x15 situps
+    - 3x15 bicycle crunches
+    - 3x15 mountain climbers
+    - 3x15 leg raises
+    - 3x15 woodchopppers
+
+6. Active Recovery 
+    - Yoga
+    - Stretching
+
+7. full 
+    - 2x10 Aus Pullups
+    - 3x15 lat pulls
+    - 3x10 pushups
+    - 3x15 bicep curls
+    - 3x15 shoulder press
+    - 3x15 sit ups
 
