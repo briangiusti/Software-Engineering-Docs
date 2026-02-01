@@ -8,30 +8,33 @@ React Summit 2026
 
 
 ## To buy
-Pacific Coast Pillows
-Gym Reapers Heavyweight Hoodie - toffee
-COD Perk Necklace
-HyperCharge Game - Steam
-J.Crew Short Sleeve Textured Camp Shirt
-Never Fucking Quit (NFQ) -> Tiger Heavyweight pullover
-Sylviangrant -> gold bracelet
-Kinetic King -> Cherry blossom shorts
-Hoooyi Global -> Green sweatshirt tattooed cat
-gear.xbox -> UNSC Issued logo tshirt
-Daniel Yuck into Amazon for Tattoo workbook
-Wolves Club -> shop.darcsport.com
-Scraphouse combat club -> Muay thai tiger shirt
-aniqi.studios -> AOT merch
-Caputo Gluten Free Flour
-Amazon Backlit Mirror -> LAIYA 65x24 LED Floor Mirror Wall
-Lamp -> BLUEYE LED Cube Chair Light 16inch
-Shelf -> Monarch Specialties White/Gray Hollow Core Bookcase
-Humbler -> Necklace
-Nike -> White sneakers with dragon on them
-FujiSportUS -> Cream shirt with tiger on it
-Mijinjuwel -> Brown snoopy sweatshirt
-Zowie XL2586+
-LemonBest Modern triangle wall light
+- Pacific Coast Pillows
+- Gym Reapers Heavyweight Hoodie - toffee
+- COD Perk Necklace
+- HyperCharge Game - Steam
+- J.Crew Short Sleeve Textured Camp Shirt
+- Never Fucking Quit (NFQ) -> Tiger Heavyweight pullover
+- Sylviangrant -> gold bracelet
+- Kinetic King -> Cherry blossom shorts
+- Hoooyi Global -> Green sweatshirt tattooed cat
+- gear.xbox -> UNSC Issued logo tshirt
+- Daniel Yuck into Amazon for Tattoo workbook
+- Wolves Club -> shop.darcsport.com
+- Scraphouse combat club -> Muay thai tiger shirt
+- aniqi.studios -> AOT merch
+- Caputo Gluten Free Flour
+- Amazon Backlit Mirror -> LAIYA 65x24 LED Floor Mirror Wall
+- Lamp -> BLUEYE LED Cube Chair Light 16inch
+- Shelf -> Monarch Specialties White/Gray Hollow Core Bookcase
+- Humbler -> Necklace
+- Nike -> White sneakers with dragon on them
+- FujiSportUS -> Cream shirt with tiger on it
+- Mijinjuwel -> Brown snoopy sweatshirt
+- Zowie XL2586+
+- LemonBest Modern triangle wall light
+- unijetstream pens
+- F-402 Retractable Ballpoint Pen
+- Shure SM7B Podcast
 
 
 ## Podcasts/bands 
