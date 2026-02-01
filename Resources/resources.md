@@ -74,6 +74,7 @@
 ### Tools
 [SCSS to CSS Converter](https://jsonformatter.org/scss-to-css)
 sidequest media
+@use JSDoc
 
 ### Books
 
@@ -117,6 +118,7 @@ sidequest media
 [Programming Language Converter](https://ide.onelang.io/)
 [Hidden Tools](https://hiddentools.dev/)
 [Music for Programming](https://musicforprogramming.net/)
+[No clue what this is](https://wch.github.io/latexsheet-0.png)
 
 
 ## Cool Code
@@ -227,6 +229,7 @@ MAC: Minimum Automated Concept
 - The architecure of a modern startup - Dmitry Kruglov
 - Use git like a senior engineer - Jacob Bennett
 - Thesre are FIVE levels of UI skill - Michal Malewicz
+- Clean code in Typescript - Kyle Le
 
 
 ## Design Steps
@@ -249,3 +252,127 @@ MAC: Minimum Automated Concept
     - 10% accent
 5. Apply this rule to your layout
 6. Play with variations of the colors such as switching the main and secondary. to the most visually appealing one
+
+### Backend
+1. fundamentals
+    - front end vs backend, client-server, dns
+
+2. Pick a lang
+    - Java, python, JS, Go, rust, c#
+
+3. Databases
+    - SQL (mySQL, postgres, SQLite)
+    - NoSQL (mongoDB, firebase, dynamoDB)
+    - NewSQL (cockroachDB, Spanner)
+    - ORMs, database caching
+
+4. API and Web Services
+    - API types (REST, GraphQL, gRPC, SOAP)
+    - auth types (JWT,Oauth, API Keys)
+
+5. Server and Hosting
+    - Backend hosting services (AWS, Azure, GCP)
+    - Containerization Docker/Kubernetes
+    - Server set up Nginx, apache
+
+6. DevOps
+    - Learn CI/CD pipelines using github actions
+    - Jenkins
+    - IaC (Terraform, Ansible)
+    - Monitoring tools (promethius/grafana/ELK)
+
+
+## Modern Software Stack
+
+1. Presentation Layer
+Handles how users interact with your app
+
+2. Edge and Delivery
+Brings content closer to users through global delivery network, reducing latency and improving preformance. 
+
+3. Integration Layer (API)
+Defines how different parts of the system communicate, enabling interoperablity between components
+
+4. Messaging and Async 
+Processes tasks and events in background to improve scalabilty and responsiveness
+
+5. Business Logic Layer
+Implements the core rules, workflows, and decision-making processes of the application
+
+6. Data Access Layer
+Acts as a bridge between application logic and stored data, ensuring secure and efficent retrieval or updates
+
+7. Data storage layer
+Stores, organizes, and manages the applications structured and unstructurted data
+
+8. Analytics and ML
+Analyzes data to generate insights, predictions, and intellegent features
+
+9. Infastructure Layer (hosting/runtime)
+Provides the computing enviorment and resources for deploying, running, and scaling the application
+
+## Flutter
+Fluttery.io
+Dart Dev
+Flutter Dev
+codemagic.io
+The boring flutter development show
+
+## Leadership
+3 P's of leadership: People, Process, Product
+
+1. People
+    - Hiring and Retention
+    - Trust & Belonging 
+    - Growth and development
+    - Accountability and Results
+    - Differentiated Preformance
+
+2. Process
+    - Resource utilization & optimization
+    - Goal Setting 
+    - Operational efficency
+    - Monitoring Metrics
+    - Agility
+    - Decision making
+
+3. Product
+    - Customer needs and wants
+    - Maximizing Value to customers 
+    - Threats and Oppertunities
+    - Delivering value faster and better
+    - Innovation
+
+Leaders operate on two layers
+
+1. Strategy
+    - Focus on long-term goals and strategies
+    - Leverage Strengths and minimize weakness
+    - Identify Threats and oppertunites in the future
+    - Align with vision and company direction
+
+2. Tactics
+    - Day to day execution
+    - Make decisions to move forward
+    - Manage customer escalations
+    - Monitor progress and impediments
+
+
+## Testing codes for websites - Automate these? 
+- 100off
+- Test
+- DevTest
+- Promocodetest
+- 99off
+- Employee99
+- Influencer
+- PrCode
+- Test1
+- Test2
+- ProdTest
+- Welcome100
+- Test100
+- CompanyName100
+- 99999
+- Free100
+- Save100

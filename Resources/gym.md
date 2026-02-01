@@ -241,3 +241,46 @@ Repeat for 45 min to simulate a half of soccer
     - 3x15 shoulder press
     - 3x15 sit ups
 
+
+## Marine Standards
+1. 3 pullups 
+2. 34 pushups
+3. 1.5 mile run in 13:30
+4. Plank 40 seconds
+
+## Calisthenics
+
+### Push
+Incline/knee pushups
+Pushups
+dips
+pike pushups
+
+### pull
+assisted rows
+rows/austrilian pullups
+pullups
+
+### core
+Hollow body holds/superman
+knees raises
+L-sit
+
+### Legs
+Air Squat
+Knee press/sissy squats
+pistol/shrimp squats
+
+### Goals
+30 pushups
+15 dips
+15 pullups
+
+You set your own
+
+### Routine
+1. Warmup: mobilization, movement
+2. Strength Ramp-up: Start with easy exerises and ramp up the difficulty to match your level
+3. Working sets: compound exercises, keep it simple and focus on a select few movements
+4. Isolation/Conditioning: light band work, high rep
+5. Stretching/Cooldown
